@@ -1,0 +1,23 @@
+{
+  "name": "roadsec2023-palestra-links",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ananopaisdojavascript/roadsec2023-palestra-links.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ananopaisdojavascript/roadsec2023-palestra-links/issues"
+  },
+  "homepage": "https://github.com/ananopaisdojavascript/roadsec2023-palestra-links#readme",
+  "devDependencies": {
+    "cypress": "^12.16.0"
+  }
+}
